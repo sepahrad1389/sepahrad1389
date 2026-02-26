@@ -1,5 +1,7 @@
 # Hi there, I'm Sepahrad! 👋
-
+#
+My wife is YAZDAN By the way❤️
+#
 ### 🐧 OS & Desktop Environments
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![Hyprland](https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white) ![KDE](https://img.shields.io/badge/KDE-1C71AF?style=for-the-badge&logo=kde&logoColor=white) ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
